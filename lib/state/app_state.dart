@@ -42,6 +42,7 @@ class AppState {
       selectedCountry: selectedCountry,
     );
   }
+  
 }
 
 class AppNotifier extends StateNotifier<AppState> {
